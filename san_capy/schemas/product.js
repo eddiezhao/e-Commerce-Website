@@ -3,7 +3,7 @@ export default {
     title: 'Product',
     fields: [
         {
-            name: 'img',
+            name: 'image',
             title: 'Image',
             type: 'array',
             of: [{ type: 'image' }],
