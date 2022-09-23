@@ -11,7 +11,7 @@ const Home = ( {products, banner} ) => {
           Best Selling Products
         </h2>
         <p>
-          Banner
+          Herds of Friends!
         </p>
       </div>
       <div className="products-container">
