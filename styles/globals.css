@@ -67,8 +67,8 @@ width: 100%;
 .logo{
   color: gray;
   font-size: 18px;
-
 }
+
 .cart-icon{
   font-size: 25px;
   color: gray;
@@ -303,6 +303,15 @@ text-align: end;
   font-size: 30px;
   display: flex;
   gap: 10px;
+}
+.footer-icon{
+  font-size: 25px;
+  color: #324d67;
+  cursor: pointer;
+  position: relative;
+  transition: transform .4s ease;
+  border: none;
+  background-color: transparent;
 }
  .cart-heading{
   display: flex;
